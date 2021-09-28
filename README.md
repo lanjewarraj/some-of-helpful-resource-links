@@ -13,5 +13,5 @@ https://www.tecmint.com/install-free-lets-encrypt-ssl-certificate-for-apache-on-
 test your ssl activation status/report
 https://www.ssllabs.com/ssltest/analyze.html?d=put_your_domain_name
 
-## *Graphics design freebie
+## *Graphics design freebie*
 https://365webresources.com/
