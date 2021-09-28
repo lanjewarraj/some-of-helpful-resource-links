@@ -1,5 +1,5 @@
 # Some of helpful resource links web development
-## *install phpmyadmin on debian 10*
+## *install LAMP stack/phpmyadmin on debian 10*
 https://phoenixnap.com/kb/how-to-install-phpmyadmin-on-debian-10
 https://www.digitalocean.com/community/tutorials/how-to-install-phpmyadmin-from-source-debian-10
 
