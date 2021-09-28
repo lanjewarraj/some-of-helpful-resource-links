@@ -1,9 +1,9 @@
 # Some of helpful resource links web development
 ## *install LAMP stack/phpmyadmin on debian 10*
-https://phoenixnap.com/kb/how-to-install-phpmyadmin-on-debian-10
+https://phoenixnap.com/kb/how-to-install-phpmyadmin-on-debian-10 
 https://www.digitalocean.com/community/tutorials/how-to-install-phpmyadmin-from-source-debian-10
 
-##Linux permissions 
+## *Linux permissions*
 https://askubuntu.com/questions/487527/give-specific-user-permission-to-write-to-a-folder-using-w-notation
 
 ## *Activate ssl on linux debian 10/ ubuntu apache2 server with letsencrypt.com*
